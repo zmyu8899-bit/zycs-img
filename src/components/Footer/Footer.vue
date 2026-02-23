@@ -23,17 +23,6 @@
         </p>
       </section>
       <section class="flex flex-col items-center gap-2">
-        <div class="flex gap-6">
-          <a title="打赏站长" target="_blank" href="/reward.web">
-            <img class="w-8" src="@/assets/images/footer/shang.svg" />
-          </a>
-          <a title="Github" target="_blank" rel="nofollow" href="https://github.com/uxiaohan">
-            <img class="w-8" src="@/assets/images/footer/github.svg" />
-          </a>
-          <a title="星云博客" target="_blank" href="https://www.nebulat.top/">
-            <img class="w-8" src="@/assets/images/footer/blog.svg" />
-          </a>
-        </div>
         <span class="w-full font-bold text-lg text-center">星云图床</span>
       </section>
     </main>
